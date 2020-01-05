@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Time: 2017-08-09 09:00 
-# @Author  : George Wei (weichenqi@gmail.com)
-# @Link    : http://weichenqi.com
 # @Version : 0.1
 
 import pyping, datetime
